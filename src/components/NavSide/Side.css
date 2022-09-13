@@ -1,0 +1,28 @@
+.side{
+    
+    width: 2%;
+    height: 100vh;
+}
+.side.active{
+    left: 75%;
+}
+
+
+
+.row{
+    padding: 0 !important;
+}
+
+ul{
+
+    list-style: none;
+}
+
+li{
+    padding-top: 1.5rem;
+}
+.side_end{
+    position: absolute;
+    bottom: 5%;
+    padding-left: 2rem!important;
+}

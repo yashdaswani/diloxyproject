@@ -1,0 +1,16 @@
+.leftcont1{
+    padding: 1rem;
+    border: 2px lightgray solid;
+}
+.leftcontopt ul{
+    list-style: none;
+    display: inline;
+}
+
+.leftcontopt ul li{
+    display: inline;
+}
+.message{
+    display: flex !important;
+    flex-direction: column;
+}
